@@ -1,0 +1,26 @@
+.justify{
+    text-justify: right
+}
+
+body {background-color: bisque;}
+
+.sf{background-color: #960e0e;
+}
+
+.whitefont{color: whitesmoke }
+
+.imagesize{
+    max-width: 257px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.gulag{
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
